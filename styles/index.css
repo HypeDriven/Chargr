@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.business-card {
+    background-color: #75cfee;
+    background-image: url('../assets/images/BusinessCardBackground.svg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+.station-image{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+  

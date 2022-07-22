@@ -1,7 +1,7 @@
-import Link from 'next/link'
+import BusinessCard from "../components/BusinessCard"
 
 const IndexPage = () => (
-  <div>Test</div>
+  <BusinessCard/>
 )
 
 export default IndexPage
