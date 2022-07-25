@@ -28,7 +28,7 @@ const BusinessCard = () => (
             <div className="flex self-center">
                 <Image src={mailIcon} height="24" width="24"/>
             </div>
-            <span className="text-2xl leading-5">biz@chargr.one</span>
+            <span className="text-2xl leading-5">biz2@chargr.one</span>
           </div>
         </div>
       </div>
