@@ -2,7 +2,7 @@ const nextConfig = {
     reactStrictMode: true,
     images: {
       loader: 'akamai',
-      path: 'https://github.com/HypeDriven/Chargrs',
+      path: 'https://github.com/HypeDriven/Chargr',
     },
     basePath: "/Chargr",
     assetPrifix: ""
